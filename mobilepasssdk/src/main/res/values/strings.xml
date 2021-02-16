@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">MobilePassSDK</string>
+	<string name="title_activity_user_location">armon</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">İşlemler devam ediyor...</string>
+</resources>
